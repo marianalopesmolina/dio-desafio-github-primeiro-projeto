@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-projeto
-Desafio de Projeto Prático do Bootcamp DIO.
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO.
+Desafio de Projeto Prático sobre Git/GitHub.
